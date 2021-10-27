@@ -15,13 +15,7 @@
 <!--MsSql-->
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png" alt="csharp" width="40" height="40"/> 
-  </a> 
- 
- <!--Boostrap-->
- 
- <a href="https://getbootstrap.com/" target="_blank"> 
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
- </a>
+  </a>
   <!--Dotnet-->
     <a href="https://dotnet.microsoft.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
@@ -46,11 +40,20 @@
    <!--JavaScript-->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+   <!--JQuery-->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="javascript" width="40" height="40"/> 
   </a> 
+  <!--Boostrap--> 
+ <a href="https://getbootstrap.com/" target="_blank"> 
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap Icons CSS logo" width="40">
+ </a>
   <!--React-->
     <a href="https://tr.reactjs.org/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="javascript" width="40" height="40"/> 
   </a>
+ 
 
 </p>
 
