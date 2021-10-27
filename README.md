@@ -1,4 +1,3 @@
-<h3 align="left">About Me:</h3>
 <p> 
  <h2 align="center">Hi I'm Mahmut & Full Stack Developer</h2></p>
 
