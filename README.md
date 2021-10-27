@@ -1,10 +1,7 @@
 ![gif from nerdy.dev](https://github.com/MahmutGuleryuz/MahmutGuleryuz/blob/main/bandicam%202021-10-27%2015-40-11-452.gif)
 
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -16,10 +13,7 @@
   </a>
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/ " alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>  
