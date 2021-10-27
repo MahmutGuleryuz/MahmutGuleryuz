@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
    <!--JQuery-->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <a href="https://jquery.com/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" alt="javascript" width="40" height="40"/> 
   </a> 
   <!--Boostrap--> 
