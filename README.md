@@ -86,5 +86,9 @@ Here are some ideas to get you started:
      <a href="https://coderbyte.com/" target="_blank"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHa18snSaCG6haGzaKWfmzMXn6Ach0y3_5A&amp;usqp=CAU" alt="javascript" width="40" height="40"/> 
   </a>
+   <!--Personel Blog-->
+     <a href="https://mfcblog.me" target="_blank"> 
+    <img src="https://icon-library.com/images/icon-for-blog/icon-for-blog-28.jpg" alt="javascript" width="40" height="40"/> 
+  </a>
   
  
