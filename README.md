@@ -1,6 +1,3 @@
-![gif from nerdy.dev](https://github.com/MahmutGuleryuz/MahmutGuleryuz/blob/main/bandicam%202021-10-27%2015-40-11-452.gif)
-
-
  
 
 <h3 align="left">Languages and Tools:</h3>
